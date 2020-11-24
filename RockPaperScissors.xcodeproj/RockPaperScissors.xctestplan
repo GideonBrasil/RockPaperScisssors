@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "9398F0D9-BB9A-4BC6-B1F1-E7A95EA86D4C",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:RockPaperScissors.xcodeproj",
+      "identifier" : "DCB9312F2561D63F00B15C95",
+      "name" : "RockPaperScissors"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:RockPaperScissors.xcodeproj",
+        "identifier" : "DCB931452561D64200B15C95",
+        "name" : "RockPaperScissorsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:RockPaperScissors.xcodeproj",
+        "identifier" : "DCB931502561D64200B15C95",
+        "name" : "RockPaperScissorsUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
